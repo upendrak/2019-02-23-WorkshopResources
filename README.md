@@ -42,5 +42,3 @@ Running the notebooks:
 ```bash
 jupyter notebook
 ```
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/upendrak/2019-02-23-WorkshopResources/master)
