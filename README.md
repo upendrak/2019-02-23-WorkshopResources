@@ -42,5 +42,6 @@ Running the notebooks:
 ```bash
 jupyter notebook
 ```
+This is a binder button for making Jupyter notebooks interactive
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/upendrak/2019-02-23-WorkshopResources/master)
